@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 120" role="img" aria-label="Doritos Nacho Cheese bag">
+  <path d="M30 12h120l-12 96H42L30 12Z" fill="#e94722"/>
+  <path d="M43 28h94l-8 66H51L43 28Z" fill="#f15b2a"/>
+  <path d="M46 78 88 24l47 54H46Z" fill="#111827"/>
+  <path d="M59 74 89 37l33 37H59Z" fill="#ffcf2f"/>
+  <path d="M76 68 90 51l15 17H76Z" fill="#f28a24"/>
+  <text x="90" y="97" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="900" fill="#fff7df">DORITOS</text>
+  <text x="90" y="112" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" fill="#ffd76b">NACHO CHEESE</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-label="Snack stand">
+  <rect width="900" height="1200" fill="#6aa17e"/>
+  <circle cx="146" cy="160" r="78" fill="#f5d56b"/>
+  <path d="M80 380h740l-62 180H142L80 380Z" fill="#f7ead6"/>
+  <path d="M134 380h120l-40 180H94l40-180Zm240 0h120l-40 180H334l40-180Zm240 0h120l-40 180H574l40-180Z" fill="#b23a48"/>
+  <rect x="155" y="560" width="590" height="370" rx="22" fill="#d8b98a"/>
+  <rect x="210" y="635" width="480" height="130" rx="10" fill="#fff8ed"/>
+  <rect x="250" y="812" width="140" height="118" fill="#8b5532"/>
+  <rect x="432" y="812" width="218" height="118" fill="#5b8f75"/>
+  <circle cx="278" cy="700" r="28" fill="#ef6b74"/>
+  <circle cx="360" cy="700" r="28" fill="#f5d56b"/>
+  <circle cx="442" cy="700" r="28" fill="#79a8d8"/>
+  <circle cx="524" cy="700" r="28" fill="#c98646"/>
+  <circle cx="606" cy="700" r="28" fill="#6d3f24"/>
+  <path d="M184 548h532" stroke="#fff8ed" stroke-width="16" stroke-linecap="round"/>
+  <path d="M210 1010h480" stroke="#436853" stroke-width="24" stroke-linecap="round"/>
+</svg>
